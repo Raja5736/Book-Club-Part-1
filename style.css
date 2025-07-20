@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(0, 255, 132);
+    text-align: center;
+    color: red;
+}
+
+p {
+    color: blue;
+}
+
+h2 {
+    color: rgb(241, 133, 0);
+    font-size: xx-large;
+}
+
+.para1 {
+    color: blueviolet;
+    background-color: brown;
+}
+
+.heading {
+    background-color: aqua;
+}
+
+.teacher {
+    background-color: lightcoral;
+}
+
+.best_sellers {
+    background-color: aquamarine;
+    text-decoration: double;
+    color: rgb(228, 111, 1);
+}
+
+.Contact_us {
+    background-color: blue;
+    color: aliceblue;
+}
